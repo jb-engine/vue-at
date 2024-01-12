@@ -1,3 +1,8 @@
+# vue-at Archived
+
+## Archive Notice
+As of January 12, 2024, this project has been marked as outdated and is no longer maintained or updated. The codebase has been archived and is available for historical purposes and for those who might find the previous versions useful.
+
 # vue-at
 
 <a href="https://github.com/fritx/vue-at/graphs/contributors"><img width="600" src="https://opencollective.com/vue-at/contributors.svg?width=890&button=false"></a><br>
